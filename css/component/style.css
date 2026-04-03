@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@500;700&display=swap");
+
+@import url("container.css");
+@import url("button.css");
+@import url("banner.css");
+@import url("card.css");
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  background-color: #F5F7FA;
+  color: #1F2D3D;
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+}
+
+a {
+  text-decoration: none;
+}
+
+.cards {
+  margin-bottom: 40px;
+}
